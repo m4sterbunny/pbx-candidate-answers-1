@@ -19,5 +19,3 @@ Please do **NOT**:
 3. Overwhelm us with information.
 
 Be concise. Provide us with the most relevant details.
-
--
