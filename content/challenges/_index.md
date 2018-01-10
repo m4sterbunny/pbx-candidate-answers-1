@@ -1,5 +1,5 @@
 ---
-title: Challenges
+title: Challenge's Answers
 menu:
     main:
         weight: 1
