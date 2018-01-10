@@ -1,5 +1,5 @@
 baseurl          = "/"
-title           = "(Candidate ID)"
+title           = "Candidate"
 languageCode    = "en-uk"
 paginate        = "10"                                                                 # Number of posts per page
 #theme           = "mainroad"
@@ -13,6 +13,7 @@ googleAnalytics = ""                                                            
 
 
 [Params]
+    gs_id           = "ab34c8"
     subtitle        = "Photobox Group Security - Candidate Site"                # Subtitle of your site
     description     = " John Doe's Personal blog about everything"              # Description of your site
     opengraph       = true
