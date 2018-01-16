@@ -1,14 +1,6 @@
 ---
 title  : "Workflow concept"
 author : harrieBickle(TW), Rob Lemos (TW)
-issue  : 
-	- in part a response to https://github.com/project-cx/pbx-group-security/issues/244
-notes:  
-	- why is this not behaving like a meta table?!
-	- this is a (very) rough draft
-  	- meta table would need to take standard format (to be agreed/tested)
-  	- populate meta with standard phrases (can meta-table call list?)
-  	- proof needs to be consulted to add their requirements to work flow
 ---
 
 
