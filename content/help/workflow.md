@@ -1,6 +1,5 @@
 ---
-draft  : true
-title  : work flow concept transcribe to publish
+title  : "Workflow concept"
 author : harrieBickle(TW), Rob Lemos (TW)
 issue  : 
 	- in part a response to https://github.com/project-cx/pbx-group-security/issues/244

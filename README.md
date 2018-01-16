@@ -6,7 +6,10 @@ Welcome, we look forward to getting to know you.
 
 As part of our job application process, we are asking candidates to modify an existing Web site so as to showcase themselves and their job skills. 
 
-You will receive an invitation to a repository for your individual Web site. Please do the following:
+You will receive an invitation to a repository for your individual Web site. The example site can be seen [here](https://pbx-candidate-answers.netlify.com).
+
+
+Please do the following:
 
 1. Change your name and bio in the _config.toml_ file
 2. Edit the About page (found in the content folder) to provide a more extensive bio,
