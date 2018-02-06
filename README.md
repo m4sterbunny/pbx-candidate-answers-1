@@ -18,9 +18,4 @@ Please do the following:
 
 When you are done, please commit and push the changes.
 
-Please do **NOT**:
-1. Modify the theme or the look and feel of the site,
-2. Add vulnerabilities or exploits to the sites, or
-3. Overwhelm us with information.
-
-Be concise. Provide us with the most relevant details.
+Feel free to improve (with customisations or new features) the Hugo theme provided. Part of the exercise is for you to show us your technical skills.
